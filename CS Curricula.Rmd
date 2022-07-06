@@ -1,0 +1,42 @@
+---
+title: "Computer Science Curricula"
+author: "GPA"
+date: '2022-07-06'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Australia - Digital Technologies
+![](https://www.legalreader.com/wp-content/uploads/2019/06/keith-zhu-638314-unsplash.jpg)
+
+[Digital Technologies Curriculum](https://www.australiancurriculum.edu.au/f-10-curriculum/technologies/digital-technologies/?year=12983&year=12984&year=12985&year=12986&year=12987&strand=Digital+Technologies+Knowledge+and+Understanding&strand=Digital+Technologies+Processes+and+Production+Skills&capability=ignore&capability=Literacy&capability=Numeracy&capability=Information+and+Communication+Technology+%28ICT%29+Capability&capability=Critical+and+Creative+Thinking&capability=Personal+and+Social+Capability&capability=Ethical+Understanding&capability=Intercultural+Understanding&priority=ignore&priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&priority=Sustainability&elaborations=true&elaborations=false&scotterms=false&isFirstPageLoad=false)
+
+## England
+![](https://th.bing.com/th/id/OIP.sPVliCgCTM5AVHocwaz6SAHaEK?pid=ImgDet&rs=1)
+
+[National Computing Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+
+[Computing at School](https://s4scoding.com/code/computing-at-school/)
