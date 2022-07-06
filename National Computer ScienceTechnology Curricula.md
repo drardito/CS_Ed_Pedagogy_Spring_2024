@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  word_document: default
+---
 # International/Domestic Computer Science Curricula
 
 
