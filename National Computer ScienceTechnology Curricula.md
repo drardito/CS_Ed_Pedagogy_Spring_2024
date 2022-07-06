@@ -1,4 +1,4 @@
-# National Computer Science/Technology Curricula
+# International/Domestic Computer Science Curricula
 
 
 ## Australia (Digital Technologies): 
