@@ -18,9 +18,8 @@ output:
 
 [National Computing Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 
-[Computing at School](https://s4scoding.com/code/computing-at-school/)
-
 [Teach Computing](https://teachcomputing.org/curriculum)
+
 
 ## Ireland:
 
