@@ -20,6 +20,8 @@ output:
 
 [Computing at School](https://s4scoding.com/code/computing-at-school/)
 
+[Teach Computing](https://teachcomputing.org/curriculum)
+
 ## Ireland:
 
 <img width="350" height="250" src="https://th.bing.com/th/id/OIP.20VjbRvC1TEQJGO1lwTeYAHaE8?pid=ImgDet&rs=1">
