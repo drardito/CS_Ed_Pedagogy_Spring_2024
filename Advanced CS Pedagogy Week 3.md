@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Work for Week 3
 
 Here is the work for Week 3. As we discussed, we will continue to move on the development of the curriulum you are designing. The analysis you have done (and may want to revisit) will take on a role of inspiration for the curriculum design work.
