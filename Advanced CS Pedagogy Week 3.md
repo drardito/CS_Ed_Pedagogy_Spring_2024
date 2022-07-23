@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # Work for Week 3
 
@@ -38,7 +38,7 @@ As we discussed in our last session, the formal work of exploring and analyzing 
 
 You have all done a good job at continuing to deepen your curriculum design work. As we discussed in our last session, the next chunk of work is focus on the areas we discussed (Jim - Creating concept maps of topics and how they thread through the entire curriculum; Ed - Developing one or two full units with assessments that match the learning environment you are creating; Karen - mapping the entire *course* against relevant learning standards, learning envirnonment guiding principles, and Big Ideas/Essential Questions).
 
-By the time we are done on August 5th, you will have developed an overall plan for your curriculum (see [here]()for an example), as well as the units of which your curriculum is comprised (see [here](https://docs.google.com/document/d/1lQpZdLgIvW9EtHDwPPsEsGUIFyibxw_8hwX65xdOZq0/edit?usp=sharing) for the unit planning worksheet we used in Summer 1). So, in the spirit of backwards design, keep this final goal in mind as you do the work immediately in front of you.
+By the time we are done on August 5th, you will have developed an overall plan for your curriculum (see [here](https://github.com/drardito/CS_Ed_Pedagogy_Summer_2022/blob/main/Bartlett%20Environmental%20Course%20Curriculum.pdf) for an example), as well as the units of which your curriculum is comprised (see [here](https://docs.google.com/document/d/1lQpZdLgIvW9EtHDwPPsEsGUIFyibxw_8hwX65xdOZq0/edit?usp=sharing) for the unit planning worksheet we used in Summer 1). So, in the spirit of backwards design, keep this final goal in mind as you do the work immediately in front of you.
 
 Remember, too, that I will look at any sized chunk of work at any time you would like feedback.
 
