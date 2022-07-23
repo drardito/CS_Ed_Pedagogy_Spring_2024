@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # **Bartlett Environmental Course Curriculum**
 
@@ -109,9 +109,9 @@ This curriculum includes fivethese topics/units of study.
 
 ## Course Units
 
-### [Unit 1: Physical Settings for Living Systems]()
+### Unit 1: Physical Settings for Living Systems
 ### Unit 2: Living and Non-Living Systems
-### Unit 3: Biodiversity
+### [Unit 3: Biodiversity](https://docs.google.com/document/d/1Bgrb4qwGBcupsMQ1rD_0cuCFS_clIWAw1MH5NLA0IgM/edit?usp=sharing)
 ### Unit 4: Sustainability/Human Impacts on the Environment
 ### Unit 5: Final Project
 
