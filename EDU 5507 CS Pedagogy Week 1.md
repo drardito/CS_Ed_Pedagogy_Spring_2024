@@ -18,6 +18,8 @@ Here is the work for Week 1. As we discussed, you will be started on our two par
 
 [Curriculum Design Model](https://cmapscloud.ihmc.us/viewer/cmap/1Y74YZQ2D-2BHBYL0-455)
 
+[An Introduction to Computational Thinking Through Art, Music, and Games](https://github.com/drardito/CS_Ed_Pedagogy_Spring_2024/blob/main/Readings/Bull%20Intro%20to%20CT%20via%20Art%20Music.pdf)
+
 ## Course Work 
 1. ***CS Learning Standards and Curriculum Analysis***
 2. ***Developing CS Lesson Plan Sequences at 3 Age Levels - Elementary, Middle, and High School***
