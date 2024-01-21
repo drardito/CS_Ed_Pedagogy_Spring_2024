@@ -43,7 +43,7 @@ Here are some prompts to get you started in this analysis:
 
 Please use Microsoft Office 365 to share your analysis. Be sure to give me editing privileges (gerald.ardito@mville.edu).
 
-***This work is due by email no later than Monday, February***
+***This work is due by email no later than Monday, February 12 (although you are welcome to get it done sooner).***
 
 
 
