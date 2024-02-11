@@ -43,7 +43,7 @@ Here is some video describing this work:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOf4EMN6-XA?si=BLfWKZjy446hQv0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<video src="https://www.youtube.com/embed/bOf4EMN6-XA?si=BLfWKZjy446hQv0b"" width="320" height="240" controls></video>
+<video src="https://www.youtube.com/watch?v=bOf4EMN6-XA"" width="320" height="240" controls></video>
 
 
 
