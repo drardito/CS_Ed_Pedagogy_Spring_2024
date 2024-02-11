@@ -52,7 +52,7 @@ Here are some readings to get us started.
 3. Bull, Garofalo, and Nguyen, 2019. [An Introduction to Computational Thinking Through Art, Music, and Games](https://manhattanville-my.sharepoint.com/:b:/g/personal/gerald_ardito_mville_edu/ERq0S2waOU9IlOv3jjUV224BFLlOXJ66qVc_z8qNnKafRg?e=HNc7Jg). Glen Bull and his team at University of Virginia have continued to pioneer the teaching and learning of CS o PreK - 12 students. Note that Bull was also on of the editors of the Logo Exchange.
 
 
-As you read these texts, please thing about the the key pedagogical ideas, principles, and strategies that are discussed and/or which underly them. Please use your current or a new Microsoft Office 365 document to capture and share your analysis. Be sure to give me editing privileges (gerald.ardito@mville.edu).
+As you read these texts, please think deeply about the the key pedagogical ideas, principles, and strategies that are discussed and/or which underly them. Then, substantively document your insights and analysis iusing your current or a new Microsoft Office 365 document to capture and share your analysis. Be sure to give me editing privileges (gerald.ardito@mville.edu).
 
 ***This work is due by email no later than Monday, February 26 (although you are welcome to get it done sooner).***
 
