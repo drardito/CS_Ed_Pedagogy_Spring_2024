@@ -56,5 +56,11 @@ As you read these texts, please think deeply about the the key pedagogical ideas
 
 ***This work is due by email no later than Monday, February 26 (although you are welcome to get it done sooner).***
 
+### Feel free to play
 
+In the next chunk of work, we will be playing with the current programming tools inspired by LOGO. You are more than welcome to get started in this chunk if you like:
+
+* [Scratch](https://scratch.mit.edu/)
+* [SNAP!](https://snap.berkeley.edu/)
+* [ArtLogo](https://playfulinvention.com/artlogo/) (a modern version of LOGO). [Here](https://playfulinvention.com/artlogo-help/) are the Basics and How To's.
 
