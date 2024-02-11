@@ -43,6 +43,7 @@ Here is some video describing this work:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOf4EMN6-XA?si=BLfWKZjy446hQv0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 So, we are going to start on work in CS Pedagogy around these early efforts. We are doing so not because the history is important (and it is), but the course principles and values that infused this work live on today in some modern descendants of LOGO - Scratch and Snap!. We are going to look at some foundational documents to see how these pioneers conceptualized computing and the teaching of computing for children. Once you have reviewed these standards documents in detail, please prepare an analysis of them. You analysis should analyze each individually and then collectively.
 
 ### Readings for this Chunk
