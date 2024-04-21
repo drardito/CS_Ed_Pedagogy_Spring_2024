@@ -19,6 +19,19 @@ By design, this is intended to be an immersive experience. So, ***dive in***, **
 3. **Think Like a Teacher**. Now that you are thinking like student, it's time to think like a teacher. Look over the [Teaching Guide](https://docs.unfold.studio/teaching/index.html) and start to think about the curricular materials you can design. Ideally, design them directly in Unfold Studio. Of course, you will share them as well.
 4. **Put it All Together**. Now you will collect your various artifacts and bundle them together. Then, you should reflect on the entire process of playing around, thinking like a student, and thinking like a teacher. 
 
+## Resources
+
+For this project, other the the materials developed for Unfold Studio, we will be using sections from [Hello World: The Big Book of Computing Pedagogy](https://manhattanville-my.sharepoint.com/:b:/g/personal/gerald_ardito_mville_edu/ESupzk3nki1Mk412ttS7wIABot7dwtNBQriFZIeQfuru2g?e=PreWUy). 
+
+Please read at least *two articles* from each of these sections of the book:
+
+- ***Lead with Concepts***
+- **Make Concrete**
+- **Work Together**
+- **Structure Lessons**
+
+And, please read "Semantic Waves" from the section **Unplug, Unpack, Repack**.
+
 
 
 This project is due no later than ***Friday May 3rd***.
