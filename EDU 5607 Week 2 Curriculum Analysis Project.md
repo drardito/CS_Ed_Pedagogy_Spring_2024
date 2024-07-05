@@ -8,7 +8,8 @@ In this project, students will explore and analyze a national education curricul
 
 Here is what you will do:
 
-1. **Choose** a national CS Curriculum from the list below.
+1. **Review** [my model of Curriculum Design](https://cmapscloud.ihmc.us/viewer/cmap/1Y74YZQ2D-2BHBYL0-455).
+2. **Choose** a national CS Curriculum from the list below.
 2. **Analyze** that curriculum. *The foci of this analysis will be: a) topics included and excluded and inferred priorities/areas of emphases; b) pacing of topics across and within grade levels; and c) integration (or lack thereof) with other content areas.*
 3. **Share** your analysis. You will share this analysis. Be sure to use a medium (such as Office 365) that allows for collaboration and feedback.
 
