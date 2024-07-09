@@ -24,6 +24,10 @@ https://www.australiancurriculum.edu.au/f-10-curriculum/technologies/digital-tec
 https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study
 https://s4scoding.com/code/computing-at-school/
 
+and
+
+https://teachcomputing.org/curriculum
+
 ***Ireland:***
 https://www.curriculumonline.ie/Home/
 Junior Cycle: Applied Technology
